@@ -393,11 +393,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Dev: Zeljko
+  m_text: 'Devs: zeljko - gustavo
 
-    Sprites: AidenArt
+    Sounds: freesound.com
 
-'
+    Sprites: AidenArt'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
   m_sharedMaterial: {fileID: 2140032, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
@@ -1128,7 +1128,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: e0596c6332f82464e9aab188bfcd6baa, type: 3}
+  m_audioClip: {fileID: 8300000, guid: ef0203d04f0c79248a686b2c9a946fb2, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.6
   m_Pitch: 1
@@ -1496,8 +1496,8 @@ RectTransform:
   m_Children:
   - {fileID: 298857089}
   - {fileID: 479618426}
-  - {fileID: 1735194027}
   - {fileID: 145801077}
+  - {fileID: 1735194027}
   m_Father: {fileID: 1231610808}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}

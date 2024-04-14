@@ -269,7 +269,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 8926739228988686758}
         m_TargetAssemblyTypeName: MenuPausa, Assembly-CSharp
-        m_MethodName: Salir
+        m_MethodName: Volver
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
